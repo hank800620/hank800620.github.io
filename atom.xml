@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wonderland</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://hank800620.github.io/"/>
+  <updated>2017-04-09T06:17:11.651Z</updated>
+  <id>https://hank800620.github.io/</id>
+  
+  <author>
+    <name>Hank OuYang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>First Setup</title>
+    <link href="https://hank800620.github.io/2016/10/25/first-setup/"/>
+    <id>https://hank800620.github.io/2016/10/25/first-setup/</id>
+    <published>2016-10-24T16:00:00.000Z</published>
+    <updated>2017-04-09T06:17:11.651Z</updated>
+    
+    <content type="html"><![CDATA[<font size="4"> 總算初步利用 <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>和 <a href="https://github.com/HoverBaum/meilidu-hexo" target="_blank" rel="external">MeiliDu</a>把網站建起來，被MeiliDu的風景照吸引，就決定用它。要注意文章的編碼要用UTF-8，否則無法正常顯示中文。Markdown的用法可以參照 <a href="http://wowubuntu.com/markdown/" target="_blank" rel="external">WowUbuntu</a>。</font>
+
+<p>目前進度:</p>
+<ul>
+<li>找出中文亂碼的錯誤</li>
+<li>修改Footer的layout</li>
+<li>改Menu和Footer的連結，加了Home和About，移除RSS</li>
+<li>簡單自介</li>
+<li>愛因斯坦語錄…XD </li>
+</ul>
+<p>還有許多可以增加、改善的地方:</p>
+<ul>
+<li>進站後，可以學習 <a href="http://lyyourc.com/" target="_blank" rel="external">DrakeLeung</a>，主圖從模糊到清楚。他用兩張圖，搭配js做成。</li>
+<li>網頁圖像(找個吉祥物? 簡單圖示?)</li>
+<li>Footer可以再改，目前略顯單調，也許可以把語錄改成圖。</li>
+<li>Categories跟Tags也許留一個就夠用</li>
+<li>最後就是趕快多點文章吧 哈哈</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;font size=&quot;4&quot;&gt; 總算初步利用 &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;和 &lt;a href=&quot;https://github.com/HoverBaum/meilidu-hex
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://hank800620.github.io/categories/Hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://hank800620.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hank800620.github.io/2016/10/23/hello-world/"/>
+    <id>https://hank800620.github.io/2016/10/23/hello-world/</id>
+    <published>2016-10-22T16:00:00.000Z</published>
+    <updated>2017-04-09T06:17:11.652Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<a id="more"></a>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Hexo" scheme="https://hank800620.github.io/categories/Hexo/"/>
+    
+    
+      <category term="hexo" scheme="https://hank800620.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
