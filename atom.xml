@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hank800620.github.io/"/>
-  <updated>2017-04-09T07:58:39.066Z</updated>
+  <updated>2017-04-09T08:13:35.012Z</updated>
   <id>https://hank800620.github.io/</id>
   
   <author>
@@ -14,6 +14,50 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Deep Learning by Google</title>
+    <link href="https://hank800620.github.io/2017/04/09/deep-learning-by-google/"/>
+    <id>https://hank800620.github.io/2017/04/09/deep-learning-by-google/</id>
+    <published>2017-04-08T16:00:00.000Z</published>
+    <updated>2017-04-09T08:13:35.012Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Deep Learning" scheme="https://hank800620.github.io/categories/Deep-Learning/"/>
+    
+    
+      <category term="udacity" scheme="https://hank800620.github.io/tags/udacity/"/>
+    
+      <category term="deep-learning" scheme="https://hank800620.github.io/tags/deep-learning/"/>
+    
+      <category term="google" scheme="https://hank800620.github.io/tags/google/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>先別急著吃棉花糖</title>
+    <link href="https://hank800620.github.io/2017/04/09/dont-eat-the-marshmallow-yet/"/>
+    <id>https://hank800620.github.io/2017/04/09/dont-eat-the-marshmallow-yet/</id>
+    <published>2017-04-08T16:00:00.000Z</published>
+    <updated>2017-04-09T07:56:43.051Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Reading" scheme="https://hank800620.github.io/categories/Reading/"/>
+    
+    
+      <category term="marshmallow" scheme="https://hank800620.github.io/tags/marshmallow/"/>
+    
+      <category term="motivational" scheme="https://hank800620.github.io/tags/motivational/"/>
+    
+      <category term="reading" scheme="https://hank800620.github.io/tags/reading/"/>
+    
+  </entry>
   
   <entry>
     <title>葡萄酒入門知識整理(continued)</title>
@@ -38,24 +82,24 @@
   </entry>
   
   <entry>
-    <title>先別急著吃棉花糖</title>
-    <link href="https://hank800620.github.io/2017/04/09/dont-eat-the-marshmallow-yet/"/>
-    <id>https://hank800620.github.io/2017/04/09/dont-eat-the-marshmallow-yet/</id>
+    <title>Fundamentals of Digital Image and Video Processing</title>
+    <link href="https://hank800620.github.io/2017/04/09/fundamentals-of-digital-image-and-video-processing/"/>
+    <id>https://hank800620.github.io/2017/04/09/fundamentals-of-digital-image-and-video-processing/</id>
     <published>2017-04-08T16:00:00.000Z</published>
-    <updated>2017-04-09T07:56:43.051Z</updated>
+    <updated>2017-04-09T08:05:10.680Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="Reading" scheme="https://hank800620.github.io/categories/Reading/"/>
+      <category term="Video" scheme="https://hank800620.github.io/categories/Video/"/>
     
     
-      <category term="marshmallow" scheme="https://hank800620.github.io/tags/marshmallow/"/>
+      <category term="coursera" scheme="https://hank800620.github.io/tags/coursera/"/>
     
-      <category term="motivational" scheme="https://hank800620.github.io/tags/motivational/"/>
+      <category term="video" scheme="https://hank800620.github.io/tags/video/"/>
     
-      <category term="reading" scheme="https://hank800620.github.io/tags/reading/"/>
+      <category term="multimedia" scheme="https://hank800620.github.io/tags/multimedia/"/>
     
   </entry>
   
@@ -106,9 +150,9 @@
     <link href="https://hank800620.github.io/2016/10/25/release-note/"/>
     <id>https://hank800620.github.io/2016/10/25/release-note/</id>
     <published>2016-10-24T16:00:00.000Z</published>
-    <updated>2017-04-09T07:57:29.402Z</updated>
+    <updated>2017-04-09T08:01:18.609Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="20170409-Release"><a href="#20170409-Release" class="headerlink" title="20170409 Release"></a>20170409 Release</h3><font size="4"><br><br></font>
+    <content type="html"><![CDATA[<h4 id="20170409-Release"><a href="#20170409-Release" class="headerlink" title="20170409 Release"></a>20170409 Release</h4><font size="4"><br><br></font>
 
 
 <p>本次進度:</p>
@@ -121,9 +165,9 @@
 <li>網頁圖像，找個吉祥物或簡單圖示</li>
 <li>Footer可以給背景圖(參考header)</li>
 <li>更改中文字型，現在的好醜，類似新細明體…<a id="more"></a>
-<br></li>
+<br><br><br></li>
 </ul>
-<h3 id="20161025-Release"><a href="#20161025-Release" class="headerlink" title="20161025 Release"></a>20161025 Release</h3><font size="4"><br>總算初步利用 <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>和 <a href="https://github.com/HoverBaum/meilidu-hexo" target="_blank" rel="external">MeiliDu</a>把網站建起來，被MeiliDu的風景照吸引，就決定用它。要注意文章的編碼要用UTF-8，否則無法正常顯示中文。Markdown的用法可以參照 <a href="http://wowubuntu.com/markdown/" target="_blank" rel="external">WowUbuntu</a>。<br></font>
+<h4 id="20161025-Release"><a href="#20161025-Release" class="headerlink" title="20161025 Release"></a>20161025 Release</h4><font size="4"><br>總算初步利用 <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>和 <a href="https://github.com/HoverBaum/meilidu-hexo" target="_blank" rel="external">MeiliDu</a>把網站建起來，被MeiliDu的風景照吸引，就決定用它。要注意文章的編碼要用UTF-8，否則無法正常顯示中文。Markdown的用法可以參照 <a href="http://wowubuntu.com/markdown/" target="_blank" rel="external">WowUbuntu</a>。<br></font>
 
 <p>目前進度:</p>
 <ul>
@@ -145,7 +189,7 @@
     
     <summary type="html">
     
-      &lt;h3 id=&quot;20170409-Release&quot;&gt;&lt;a href=&quot;#20170409-Release&quot; class=&quot;headerlink&quot; title=&quot;20170409 Release&quot;&gt;&lt;/a&gt;20170409 Release&lt;/h3&gt;&lt;font size=&quot;4&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;
+      &lt;h4 id=&quot;20170409-Release&quot;&gt;&lt;a href=&quot;#20170409-Release&quot; class=&quot;headerlink&quot; title=&quot;20170409 Release&quot;&gt;&lt;/a&gt;20170409 Release&lt;/h4&gt;&lt;font size=&quot;4&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;
 
 
 &lt;p&gt;本次進度:&lt;/p&gt;
