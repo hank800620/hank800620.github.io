@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://hank800620.github.io/"/>
-  <updated>2017-04-09T08:13:35.012Z</updated>
+  <updated>2017-04-09T15:13:56.290Z</updated>
   <id>https://hank800620.github.io/</id>
   
   <author>
@@ -14,6 +14,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>連城訣</title>
+    <link href="https://hank800620.github.io/2017/04/09/a-deadly-secret/"/>
+    <id>https://hank800620.github.io/2017/04/09/a-deadly-secret/</id>
+    <published>2017-04-08T16:00:00.000Z</published>
+    <updated>2017-04-09T15:13:56.290Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Reading" scheme="https://hank800620.github.io/categories/Reading/"/>
+    
+    
+      <category term="jin-yong" scheme="https://hank800620.github.io/tags/jin-yong/"/>
+    
+      <category term="kungfu" scheme="https://hank800620.github.io/tags/kungfu/"/>
+    
+      <category term="reading" scheme="https://hank800620.github.io/tags/reading/"/>
+    
+  </entry>
   
   <entry>
     <title>Deep Learning by Google</title>
@@ -60,11 +82,11 @@
   </entry>
   
   <entry>
-    <title>低階波爾多的品嘗(continued)</title>
-    <link href="https://hank800620.github.io/2017/04/09/low-level-bordeaux-taste/"/>
-    <id>https://hank800620.github.io/2017/04/09/low-level-bordeaux-taste/</id>
+    <title>葡萄酒入門知識整理(continued)</title>
+    <link href="https://hank800620.github.io/2017/04/09/grape-wine-knowledge/"/>
+    <id>https://hank800620.github.io/2017/04/09/grape-wine-knowledge/</id>
     <published>2017-04-08T16:00:00.000Z</published>
-    <updated>2017-04-09T07:58:40.906Z</updated>
+    <updated>2017-04-09T07:58:39.066Z</updated>
     
     <summary type="html">
     
@@ -73,11 +95,11 @@
       <category term="Wine" scheme="https://hank800620.github.io/categories/Wine/"/>
     
     
-      <category term="low" scheme="https://hank800620.github.io/tags/low/"/>
+      <category term="grape" scheme="https://hank800620.github.io/tags/grape/"/>
     
       <category term="bordeaux" scheme="https://hank800620.github.io/tags/bordeaux/"/>
     
-      <category term="red-wine" scheme="https://hank800620.github.io/tags/red-wine/"/>
+      <category term="knowledge" scheme="https://hank800620.github.io/tags/knowledge/"/>
     
   </entry>
   
@@ -95,20 +117,20 @@
       <category term="Reading" scheme="https://hank800620.github.io/categories/Reading/"/>
     
     
+      <category term="reading" scheme="https://hank800620.github.io/tags/reading/"/>
+    
       <category term="marshmallow" scheme="https://hank800620.github.io/tags/marshmallow/"/>
     
       <category term="motivational" scheme="https://hank800620.github.io/tags/motivational/"/>
     
-      <category term="reading" scheme="https://hank800620.github.io/tags/reading/"/>
-    
   </entry>
   
   <entry>
-    <title>葡萄酒入門知識整理(continued)</title>
-    <link href="https://hank800620.github.io/2017/04/09/grape-wine-knowledge/"/>
-    <id>https://hank800620.github.io/2017/04/09/grape-wine-knowledge/</id>
+    <title>低階波爾多的品嘗(continued)</title>
+    <link href="https://hank800620.github.io/2017/04/09/low-level-bordeaux-taste/"/>
+    <id>https://hank800620.github.io/2017/04/09/low-level-bordeaux-taste/</id>
     <published>2017-04-08T16:00:00.000Z</published>
-    <updated>2017-04-09T07:58:39.066Z</updated>
+    <updated>2017-04-09T07:58:40.906Z</updated>
     
     <summary type="html">
     
@@ -119,9 +141,29 @@
     
       <category term="bordeaux" scheme="https://hank800620.github.io/tags/bordeaux/"/>
     
-      <category term="grape" scheme="https://hank800620.github.io/tags/grape/"/>
+      <category term="low" scheme="https://hank800620.github.io/tags/low/"/>
     
-      <category term="knowledge" scheme="https://hank800620.github.io/tags/knowledge/"/>
+      <category term="red-wine" scheme="https://hank800620.github.io/tags/red-wine/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>富爸爸，窮爸爸</title>
+    <link href="https://hank800620.github.io/2017/04/09/rich-dad-poor-dad/"/>
+    <id>https://hank800620.github.io/2017/04/09/rich-dad-poor-dad/</id>
+    <published>2017-04-08T16:00:00.000Z</published>
+    <updated>2017-04-09T15:13:58.738Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="Reading" scheme="https://hank800620.github.io/categories/Reading/"/>
+    
+    
+      <category term="reading" scheme="https://hank800620.github.io/tags/reading/"/>
+    
+      <category term="finance" scheme="https://hank800620.github.io/tags/finance/"/>
     
   </entry>
   
@@ -150,9 +192,9 @@
     <link href="https://hank800620.github.io/2016/10/25/release-note/"/>
     <id>https://hank800620.github.io/2016/10/25/release-note/</id>
     <published>2016-10-24T16:00:00.000Z</published>
-    <updated>2017-04-09T15:07:39.421Z</updated>
+    <updated>2017-04-09T15:08:06.692Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="20170409-Release"><a href="#20170409-Release" class="headerlink" title="20170409 Release"></a>20170409 Release</h4><font size="4"><br>一轉眼，上次更新竟然是半年前。這段時間新認識了一些人、多爬了幾座山、多發現了一些有趣的事物、多做了一些不同的挑戰，其實有很多心得，但都沒有好好記錄。需要振作RRRRR 要持續更新才行! 尤其是學習的部分~<br></font>
+    <content type="html"><![CDATA[<h4 id="20170409-Release"><a href="#20170409-Release" class="headerlink" title="20170409 Release"></a>20170409 Release</h4><font size="4"><br>一轉眼，上次更新竟然是半年前。這段時間新認識了一些人、多爬了幾座山、多發現了一些有趣的事物、多做了一些不同的挑戰，其實有很多心得，但都沒有好好記錄，很可惜。需要振作RRRRR 要持續更新才行! 尤其是學習的部分~<br></font>
 
 <p>本次進度:</p>
 <ul>
@@ -188,7 +230,7 @@
     
     <summary type="html">
     
-      &lt;h4 id=&quot;20170409-Release&quot;&gt;&lt;a href=&quot;#20170409-Release&quot; class=&quot;headerlink&quot; title=&quot;20170409 Release&quot;&gt;&lt;/a&gt;20170409 Release&lt;/h4&gt;&lt;font size=&quot;4&quot;&gt;&lt;br&gt;一轉眼，上次更新竟然是半年前。這段時間新認識了一些人、多爬了幾座山、多發現了一些有趣的事物、多做了一些不同的挑戰，其實有很多心得，但都沒有好好記錄。需要振作RRRRR 要持續更新才行! 尤其是學習的部分~&lt;br&gt;&lt;/font&gt;
+      &lt;h4 id=&quot;20170409-Release&quot;&gt;&lt;a href=&quot;#20170409-Release&quot; class=&quot;headerlink&quot; title=&quot;20170409 Release&quot;&gt;&lt;/a&gt;20170409 Release&lt;/h4&gt;&lt;font size=&quot;4&quot;&gt;&lt;br&gt;一轉眼，上次更新竟然是半年前。這段時間新認識了一些人、多爬了幾座山、多發現了一些有趣的事物、多做了一些不同的挑戰，其實有很多心得，但都沒有好好記錄，很可惜。需要振作RRRRR 要持續更新才行! 尤其是學習的部分~&lt;br&gt;&lt;/font&gt;
 
 &lt;p&gt;本次進度:&lt;/p&gt;
 &lt;ul&gt;
@@ -206,9 +248,9 @@
       <category term="Hexo" scheme="https://hank800620.github.io/categories/Hexo/"/>
     
     
-      <category term="releas" scheme="https://hank800620.github.io/tags/releas/"/>
-    
       <category term="hexo" scheme="https://hank800620.github.io/tags/hexo/"/>
+    
+      <category term="releas" scheme="https://hank800620.github.io/tags/releas/"/>
     
   </entry>
   
